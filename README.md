@@ -55,7 +55,7 @@ Para a sincronização, foi usado um `multiprocessing.Lock` para garantir que a 
 
 O diagrama abaixo ilustra o fluxo de comunicação do sistema de forma simplificada e visual.
 
-![alt text](Diagrama_do_Fluxo.png)
+![alt text](assets/Diagrama_do_Fluxo.png)
 
 
 ---
