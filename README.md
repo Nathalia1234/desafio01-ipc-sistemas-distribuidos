@@ -55,7 +55,7 @@ Para a sincronização, foi usado um `multiprocessing.Lock` para garantir que a 
 
 O diagrama abaixo ilustra o fluxo de comunicação do sistema de forma simplificada e visual.
 
-![alt text](Diagrama_do_Fluxo.png)
+![alt text](assets/Diagrama_do_Fluxo.png)
 
 
 ---
@@ -83,10 +83,10 @@ A execução do script gera os seguintes arquivos de log:
 * `consumer_log.txt`: Um log específico do `Consumidor`, contendo os dados recebidos e o resultado do seu processamento.
 
 
-    ![alt text](Consumer_log.png)
+    ![alt text](assets/Consumer_log.png)
 
 
 * `execution_log.txt`: Um log central e sincronizado que captura todas as ações e mensagens dos processos `Main`, `Produtor` e `Consumidor`.
 
 
-    ![alt text](Execution_log.png)
+    ![alt text](assets/Execution_log.png)
