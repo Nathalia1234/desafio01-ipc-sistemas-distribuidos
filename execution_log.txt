@@ -1,0 +1,32 @@
+### Log de Execucao - 18:26:49 ###
+
+[Produtor]: Processo iniciado.
+[Produtor]: Enviando dado: 18 (1/12)
+[Consumidor]: Processo iniciado. Aguardando dados...
+[Consumidor]: Dado recebido: 18
+[Produtor]: Enviando dado: 47 (2/12)
+[Consumidor]: Dado recebido: 47
+[Produtor]: Enviando dado: 76 (3/12)
+[Consumidor]: Dado recebido: 76
+[Produtor]: Enviando dado: 2 (4/12)
+[Consumidor]: Dado recebido: 2
+[Produtor]: Enviando dado: 40 (5/12)
+[Consumidor]: Dado recebido: 40
+[Produtor]: Enviando dado: 15 (6/12)
+[Consumidor]: Dado recebido: 15
+[Produtor]: Enviando dado: 54 (7/12)
+[Consumidor]: Dado recebido: 54
+[Produtor]: Enviando dado: 78 (8/12)
+[Consumidor]: Dado recebido: 78
+[Produtor]: Enviando dado: 97 (9/12)
+[Consumidor]: Dado recebido: 97
+[Produtor]: Enviando dado: 15 (10/12)
+[Consumidor]: Dado recebido: 15
+[Produtor]: Enviando dado: 58 (11/12)
+[Consumidor]: Dado recebido: 58
+[Produtor]: Enviando dado: 19 (12/12)
+[Consumidor]: Dado recebido: 19
+[Produtor]: Todos os dados foram enviados. Enviando sinal de termino.
+[Produtor]: Conexao fechada. Finalizando.
+[Consumidor]: Sinal de termino recebido.
+[Consumidor]: Finalizando.
